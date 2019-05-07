@@ -4,18 +4,18 @@
 ##########################################
 
 # Set this for Copyright in the footer
-owner: Name Surname
+owner: joy.young
 
 # Optional quote in the footer
 # To disable set enable to false
 quote:
   enable: true
-  quote: Some fancy quote
-  author: John Doe
+  quote: Twenty years from now you will be more disappointed by the things you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.
+  author: Mark Twain
 
 # Set this to your main site title. If page doesn't have its own title,
 # then this title will be used.
-title: Aliquam Theme
+title: joy.young blog
 
 
 # Following needed for disqus integration
@@ -27,7 +27,7 @@ disqus:
 
 # Set your host if deployed not locally
 # For example "https://yourGitHub.github.io"
-url:
+url: https://ggomajae.github.io
 
 # Change this to your base URL starting with forward slash if site is in gh-pages branch
 # For example /branchName
