@@ -17,7 +17,7 @@ $f-s-tablet: 18px;
 $f-s-desktop: 19px;
 
 // set default font size to 100% of browser's font size
-$f-s-default: 0.8rem;
+$f-s-default: 0.6rem;
 // set default line height to golden ratio between default font size
 $l-h-default: $f-s-default * $golden-ratio;
 
@@ -95,6 +95,9 @@ sub {
   letter-spacing: $l-s-double;
 }
 
+.articles{
+  letter-spacing: -0.2px;
+}
 
 /*************************************************************************
                              FONT WEIGHT
@@ -182,7 +185,7 @@ sup,
 .highlighter-rouge,
 article > .blockquote,
 abbr {
-  font-size: smaller;
+  font-size: 15px;
 }
 
 
